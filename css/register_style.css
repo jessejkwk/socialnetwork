@@ -1,0 +1,142 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Merriweather:700');
+</style>
+
+
+
+form {
+
+	text-align: center;
+}
+
+body {
+
+	margin:0;
+	padding:0;
+}
+.wrapper {
+
+	background-image: url("../images/backgrounds/blank.jpg");
+	background-size: 100%;
+	width:100%;
+	height:100%;
+	min-width: 950px;
+}
+
+.login_box {
+
+	position:relative;
+	margin-right:auto;
+	margin-left:auto;
+	top:7%;
+	width:24%;
+	background-color:#FFFFFF;
+	border: 2px solid #808080;
+	border-radius: 5px;
+	padding:10px;
+}
+
+input[type="submit"] {
+
+	border-radius:5px;
+	background-color:#D3D3D3;
+	color:#808080;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+input[type="submit"]:hover {
+
+	border-radius:5px;
+	background-color:#DCDCDC;
+	color:#808080;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+	border-radius:5px;
+	background-color:#FFFFFF;
+	color:#A9A9A9;
+	padding:10px;
+	border:2px solid #C0C0C0;
+	width:80%;
+	margin-bottom:10px;
+	font-size: 14px;
+
+}
+
+input[type="text"]:hover, input[type="email"]:hover, input[type="password"]:hover {
+	border-radius:5px;
+	background-color:#FFFFFF;
+	margin-bottom:10px;
+	color:#A9A9A9;
+	padding:10px;
+	border:2px solid #696969;
+	width:80%;
+
+}
+
+a {
+
+	text-decoration: none;
+	color:#000000;
+	margin-top:10px;
+}
+
+a:hover {
+
+	text-decoration: none;
+	color:#FF6991;
+	margin-top:10px;
+}
+
+#second {
+
+	display:none;
+	text-align:center;
+	margin-top:10px;
+}
+
+h3 {
+
+	text-align: center;
+	font-size:50px;
+	f
+
+}
+
+h6 {
+
+	font-family: 'Rubik', sans-serif;
+	font-size:16px;
+	text-align:center;
+}
+
+#first {
+
+	text-align:center;
+}
+
+p {
+
+	text-align: center;
+	font-size:15px;
+	padding-top:10px;
+}
+
+div #okr {
+
+	background-color: #D3D3D3;
+	width:80%;
+	margin:auto;
+	padding:5px;
+	margin-top:20px;
+}
+
+#okr p {
+
+	font-size:15px;
+	padding:5px;
+	margin:auto;
+}
